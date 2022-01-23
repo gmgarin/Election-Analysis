@@ -22,6 +22,7 @@ Module 3 Python Challenge
            - with 272,892 total votes
            - 73.8% of total votes
     Election Receipt
+<img width="270" alt="election_analysis" src="https://user-images.githubusercontent.com/96095956/150682118-0012e56f-bc88-47c4-b5a5-e01cd289a181.PNG">
 
 ## Election-Audit Summary
 ### In conclusion, running a Python script is an efficient and effective way of analyzing vast amount of data gathered during election season. It can be modified in many different ways depending on the needed information and available data. For example, in future elections, Python script can also be modified to identify the breakdwon of the numbers of how people voted (i.e. mail, early voting, and election day voting). It can also used to detect potential irregularities like duplicate votes etc.   
