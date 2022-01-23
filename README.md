@@ -5,6 +5,7 @@ Module 3 Python Challenge
 ### The purpose of this election audit is to summarized the results and obtain additional important information needed by the Colorado Board of Election. The goal was to write a python code that will be ran to analyze the data gathered during election day. Specifically, the election commision wants to know the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout.
 
 ## Election Audit Results
+/Users/genesisgarin/Desktop/Data Analysis/election-analysis/analysis/election_analysis.PNG
 ### Using Python script, the data was analyzed and showed the following results:
   - Total Votes:
     - 369, 711
