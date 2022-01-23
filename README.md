@@ -6,23 +6,27 @@ Module 3 Python Challenge
 
 ## Election Audit Results
 ### Using Python script, the data was analyzed and showed the following results:
-  - Total Votes:
+  - **Total Votes:**
     - 369, 711
-  - County Votes
+  - **County Votes**
       - Jefferson: 38,855 (10.5%)
       - Denver: 306,055 (82.8%)
       - Arapahoe: 24,801 (6.7%)
-  - The county with the largest voter turnout is Denver.
-  - Candidate Votes:
+  - **The county with the largest voter turnout is Denver.**
+  - **Candidate Votes:**
       - Charles Casper Stockham: 85,213 (23.0%)
       - Diana DeGette: 272,892 (73.8%)
       - Raymon Anthony Doane: 11,606 (3.1%)
-  - Winning Candidate:
+  - **Winning Candidate:**
       - Diana DeGette
            - with 272,892 total votes
            - 73.8% of total votes
-    Election Receipt
+  
 <img width="270" alt="election_analysis" src="https://user-images.githubusercontent.com/96095956/150682118-0012e56f-bc88-47c4-b5a5-e01cd289a181.PNG">
+
+*Election data summary generated on a .txt file*
+
+
 
 ## Election-Audit Summary
 ### In conclusion, running a Python script is an efficient and effective way of analyzing vast amount of data gathered during election season. It can be modified in many different ways depending on the needed information and available data. For example, in future elections, Python script can also be modified to identify the breakdwon of the numbers of how people voted (i.e. mail, early voting, and election day voting). It can also used to detect potential irregularities like duplicate votes etc.   
